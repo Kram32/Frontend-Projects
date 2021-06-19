@@ -1,4 +1,4 @@
-<h2>*** FRONTEND PROJECTS ***</h2>
+<h2># FRONTEND PROJECTS #</h2>
 
 <strong>You may see the output of my projects through this link:</strong> https://kram32.github.io/Frontend-Projects/
 
