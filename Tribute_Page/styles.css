@@ -1,0 +1,233 @@
+img{
+    display: block;
+    margin: 0 auto 0 auto;
+    width: 100px;
+    height: 200px;
+    margin-top: 10px;
+    border: white solid 30px;
+    border-radius: 50px;
+    box-shadow: 20px 10px #aaaaaa;
+  }
+
+#title{
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+}
+
+h1{
+    text-align: center;
+}
+
+#main{
+    font-style: arial;
+    padding: 20px;
+    margin: 60px;
+    background-color: lavender;
+    border-radius: 50px;
+}
+
+
+body{
+    font-size: 18px;
+    background-color: cornflowerblue ;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+#img-caption{
+    padding-top: 20px
+}
+
+#tribute-info{
+    padding-top: 20px;
+}
+
+#tribute1{
+    padding: 40px;
+    margin: 20px;
+    background-color: khaki;
+}
+
+#tribute2{
+    padding: 30px;
+    margin: 20px;
+    background-color: khaki;
+}
+
+#tribute3{
+    padding: 30px;
+    margin: 20px;
+    background-color: khaki; 
+}
+
+#tribute4{
+    padding: 30px;
+    margin: 20px;
+    background-color: khaki;
+}
+
+.Article{
+    padding: 30px;
+    margin: 20px;
+    background-color: khaki;
+}   
+
+#link1{
+    text-decoration: none;
+    font-size: 15px;
+}
+
+#link2{
+    text-decoration: none;
+    font-size: 13px;
+   
+}
+
+@media only screen and (min-width: 600px){
+    img{
+        display: block;
+        margin: 0 auto 0 auto;
+        width: 220px;
+        height: 320px;
+        margin-top: 10px;
+        border: white solid 30px;
+        border-radius: 50px;
+        box-shadow: 30px 20px #aaaaaa;
+      }
+      #link1{
+        text-decoration: none;
+        font-size: 18px;
+    }
+    
+    #link2{
+        text-decoration: none;
+        font-size: 18px;
+       
+    }
+
+     body{
+        font-size: 20px;
+        background-color: cornflowerblue ;
+        font-family:Arial, Helvetica, sans-serif;
+
+    }
+
+
+}
+
+@media only screen and (min-width: 900px){
+    img{
+        display: block;
+        margin: 0 auto 0 auto;
+        width: 270px;
+        height: 350px;
+        margin-top: 10px;
+        border: white solid 30px;
+        border-radius: 50px;
+        box-shadow: 30px 20px #aaaaaa;
+      }
+
+      
+      body{
+        font-size: 22px;
+        background-color: cornflowerblue ;
+        font-family:Arial, Helvetica, sans-serif;
+
+    }
+
+      #link1{
+        text-decoration: none;
+        font-size: 22px;
+    }
+    
+    #link2{
+        text-decoration: none;
+        font-size: 22px;
+       
+    }
+
+
+}
+
+@media only screen and (min-width: 1200px){
+    img{
+        display: block;
+        margin: 0 auto 0 auto;
+        width: 500px;
+        height: 600px;
+        margin-top: 10px;
+        border: white solid 30px;
+        border-radius: 70px;
+        box-shadow: 45px 25px #aaaaaa;
+      }
+
+      #tribute1{
+        padding: 40px;
+        margin: 40px;
+        background-color: khaki;
+    }
+    
+    #tribute2{
+        padding: 30px;
+        margin: 40px;
+        background-color: khaki;
+    }
+    
+    #tribute3{
+        padding: 30px;
+        margin: 40px;
+        background-color: khaki; 
+    }
+    
+    #tribute4{
+        padding: 30px;
+        margin: 40px;
+        background-color: khaki;
+    }
+
+      body{
+        font-size: 24px;
+        background-color: cornflowerblue ;
+        font-family:Arial, Helvetica, sans-serif;
+
+    }
+    
+    
+    .Article{
+        padding: 30px;
+        margin: 40px;
+        background-color: khaki;
+    }   
+    
+    #link1{
+        text-decoration: none;
+        font-size: 25px;
+    }
+    
+    #link2{
+        text-decoration: none;
+        font-size: 25px;
+       
+    }
+      
+
+     
+       
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

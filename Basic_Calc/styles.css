@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+.container{
+    position: relative;
+    left: 500px;
+    top: 100px;
+   
+}
+
+.button{
+    font-size: 30px;
+    height: 70px;
+    width: 70px;
+    cursor: pointer;
+
+
+}
+
+.textview{
+    display: flex;
+    text-align: end;
+    width: 6em;
+    font-size: 48px;
+    padding: 12px;
+    background-color: gray;
+    color: white;
+
+   
+}
+
+#button1{
+    width: 140px;
+}
+
+
+
+
+

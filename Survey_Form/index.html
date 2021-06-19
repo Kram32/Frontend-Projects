@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Survey Form</title>
+  </head>
+  <body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">The Easy Way To Improve Our Platform</p>
+
+    <form action="" id="survey-form">
+      <div class="container">
+        <label for="Name">Name:</label>
+        <input
+          type="text"
+          id="name-label"
+          name="name"
+          placeholder="Enter your name"
+          size="40"
+        />
+
+        <p>
+          <label for="Email">Email:</label>
+          <input
+            type="email"
+            id="email-label"
+            name="email"
+            pattern=".+@avion.com"
+            placeholder="Enter your email"
+            size="40"
+          />
+        </p>
+
+        <p>
+          <label for="Number">Age:</label>
+          <input
+            type="number"
+            id="number-label"
+            name="number"
+            placeholder="Enter Your Age"
+            min="18"
+            max="75"
+            style="width: 8em"
+          />
+        </p>
+
+        <p>
+          <label for="Options"
+            >Please choose an option what should we do for our precourse.</label
+          ><br />
+          <select
+            id="dropdown"
+            name="precourseRecommended"
+            placeholder="select an options"
+          >
+            <option>Select an option</option>
+            <option>Remove the precourse</option>
+            <option>Put more problems including backend tools</option>
+            <option>Just focus on HTML and CSS problems</option>
+            <option>
+              Make the precourse a little bit easy for non IT background
+            </option>
+          </select>
+        </p>
+
+        <p>
+          <label for="Options"
+            >Would you like to recommend the precourse for the upcoming
+            batch?</label
+          ><br />
+          <input type="radio" name="option" />
+          <label for="male">Yes</label><br />
+          <input type="radio" name="option" />
+          <label for="female">No</label><br />
+          <input type="radio" name="option" />
+          <label for="other">Maybe</label>
+        </p>
+
+        <p>
+          <label for="Options2"
+            >In overall? what would you like to improve?</label
+          ><br />
+          <input type="checkbox" name="op1" value="Front-end" />
+          <label for="op1"> Front-end Activities</label><br />
+          <input type="checkbox" name="op2" value="Back-end" />
+          <label for="op2"> Back-end Activities</label><br />
+          <input type="checkbox" name="op3" value="Challenges" />
+          <label for="op3"> Challenges</label><br />
+          <input type="checkbox" name="op4" value="Videos" />
+          <label for="op4"> Videos</label><br />
+          <input type="checkbox" name="op5" value="Slides" />
+          <label for="op5"> Slides</label><br />
+          <input type="checkbox" name="op6" value="Additional Courses" />
+          <label for="op6"> Additional Courses</label><br />
+          <input type="checkbox" name="op7" value="None" />
+          <label for="op7"> None</label>
+        </p>
+        <br />
+
+        <center><label for="Comment">COMMENT</label><br /></center>
+        <textarea id="w3review" name="w3review" rows="6" cols="54"></textarea>
+
+        <center>
+          <p><input type="submit" /></p>
+        </center>
+      </div>
+    </form>
+  </body>
+</html>

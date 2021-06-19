@@ -1,0 +1,35 @@
+body{
+ margin: 30px auto;
+ width: 420px;
+ font-size: 18px;
+ background: url(logo2.jpg);
+background-size: cover;
+}
+
+#title{
+    text-align: center;
+}
+
+#description{
+    text-align: center;
+    font-size: 25px;
+    margin: 40px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#name{
+  text-align: center;
+}
+
+#survey-form{
+  
+    background: rgba(255, 255, 255, .2);
+}
+
+.container{
+ padding: 10px;
+}
+
+
+

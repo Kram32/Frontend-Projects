@@ -1,0 +1,44 @@
+div{
+
+text-align: center;
+font-size: 100px;
+}
+
+body{
+    background: aqua;
+}
+
+#link{
+
+    font-size: 50px;
+    padding: 40px;
+}
+
+#link1{
+  
+    font-size: 50px;
+    
+}
+
+embed{
+    align-items: center;
+}
+
+body{
+    font-style: inherit;
+}
+
+p{
+padding: 50px;
+margin: 100px;
+background-color: salmon;
+font-size: 30px;
+font-style: normal;
+
+
+}
+
+a{
+    font-size: 50px;
+}
+
