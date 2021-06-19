@@ -1,5 +1,7 @@
 <h2>#Frontend Projects#</h2>
 
+You may see the output of my projects through this link: https://kram32.github.io/Frontend-Projects/
+
 
 -[Best Practice](/Best_Practice/index.html)<br>
 -[Chessboard Grid](/Chess_Board_Grid/index.html)<br>
