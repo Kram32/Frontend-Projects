@@ -11,7 +11,6 @@
 -[Tribute Page](/Tribute_Page/index.html)<br>
 -[Calculator](/Basic_Calc/index.html)<br>
 -[Landing Page](/Landing_Page/index.html)<br>
--[Computation of BMI]( https://jsfiddle.net/kmgcda3x/)<br>
 -[Deck of Cards](https://jsfiddle.net/mgs2qwkx/90/)<br>
 -[Quiz Activity](/Quiz/index.html)<br>
 -[Pig Game](/Pig_Game/index.html)<br>
