@@ -3,14 +3,12 @@
 
 
 
--[Best Practice](/Best_Practice/index.html)<br>
+
 -[Chessboard Grid](/Chess_Board_Grid/index.html)<br>
 -[Chessboard Flex](/Chess_Board/index.html)<br>
 -[Letter Activity](/Letter_Activity/index.html)<br>
 -[Survey Form](/Survey_Form/index.html)<br>
 -[Tribute Page](/Tribute_Page/index.html)<br>
--[Calculator](/Basic_Calc/index.html)<br>
--[Landing Page](/Landing_Page/index.html)<br>
 -[Quiz Activity](/Quiz/index.html)<br>
 -[Pig Game](/Pig_Game/index.html)<br>
 -[Bank App](/Bank_App/index.html) ( ACCOUNTS USERS AND PINS  1. user: mav pin: 1111 2. user: ms pin: 2222 3. user: stw pin: 3333 4. user: ss pin: 4444 )<br>
